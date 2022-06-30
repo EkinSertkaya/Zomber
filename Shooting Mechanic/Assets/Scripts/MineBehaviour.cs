@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MineBehaviour : MonoBehaviour
 {
+    // GitHub Deneme
     public MineExplosionLogic mineExplosionLogic;
 
     private void Start()
